@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**thakarpriyam30/thakarpriyam30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thakarpriyam30/thakarpriyam30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Contact Me:
+[Linkedin](https://www.linkedin.com/in/thakar-priyam-03a4a1217/)   |  [Instagram](https://www.instagram.com/thakarpriyam30/)  | [Gmail](pmthakar30@gmail.com)
