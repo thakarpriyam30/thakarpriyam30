@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Contact Me:
-[Linkedin](https://www.linkedin.com/in/thakar-priyam-03a4a1217/)   |  [Instagram](https://www.instagram.com/thakarpriyam30/)  | [Gmail](pmthakar30@gmail.com)
+[Linkedin](https://www.linkedin.com/in/thakar-priyam-24118521a/)   |  [Instagram](https://www.instagram.com/thakarpriyam30/)  | [Gmail](pmthakar30@gmail.com)
